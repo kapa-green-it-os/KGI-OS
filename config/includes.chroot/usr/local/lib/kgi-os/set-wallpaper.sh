@@ -3,7 +3,7 @@
 # Après cette première application, l'utilisateur est libre de le modifier.
 set -u
 
-IMAGE="/usr/share/backgrounds/kgi-os/logo.png"
+IMAGE="/usr/share/backgrounds/kgi-os/wallpaper.png"
 STATE_DIR="${XDG_CONFIG_HOME:-$HOME/.config}/kgi-os"
 MARKER="$STATE_DIR/wallpaper-initialized-v1"
 
