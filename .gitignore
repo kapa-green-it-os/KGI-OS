@@ -1,0 +1,21 @@
+# Images binaires et résultats de construction : ne pas les committer.
+*.iso
+*.img
+*.log
+*.packages
+*.contents
+*.files
+/build/
+/binary/
+/cache/
+/chroot/
+/source/
+/.local/
+# Fichiers de configuration générés par lb config.
+# Conserver les fichiers source sous config/package-lists et futurs includes/hooks.
+config/binary
+config/bootstrap
+config/chroot
+config/common
+config/source
+config/*.conf
