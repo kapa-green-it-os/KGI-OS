@@ -1,0 +1,5 @@
+# KGI-OS : ajouter uniquement une logitheque graphique.
+# Ne pas ajouter de nouvelles applications preinstallees.
+# GNOME Logiciels utilise les depots APT de Debian pour rechercher,
+# installer et mettre a jour des applications.
+gnome-software
