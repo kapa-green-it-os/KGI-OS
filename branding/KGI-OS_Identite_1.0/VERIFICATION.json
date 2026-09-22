@@ -1,0 +1,53 @@
+{
+  "source_hashes": {
+    "Logo KGI 03.png": "8a8a9afdf9f38cbab2cf467e3e2b8e599b41f9bc84c5d9935e7538e75d28e664",
+    "logo KGI.png": "31fd7944400d817e8d428b23da1e2059db1d46781885e87b0c481c0d212074b7",
+    "logo kgi ecran de veille.png": "9510c6071b83399457cc85b038c242ada4b3d26d53e91d7e6f4d224cff212559"
+  },
+  "source_files_unchanged": true,
+  "export_dimensions_checked": 45,
+  "svg_xml_valid": true,
+  "default_paths_exist": true,
+  "video_decode": "passed",
+  "videos": [
+    {
+      "file": "08-fond-anime/kgi-bureau-anime-1920x1080.mp4",
+      "programs": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 1920,
+          "height": 1080,
+          "r_frame_rate": "24/1",
+          "nb_frames": "288"
+        }
+      ],
+      "format": {
+        "duration": "12.000000",
+        "size": "890893"
+      }
+    },
+    {
+      "file": "08-fond-anime/kgi-bureau-anime-1280x720.mp4",
+      "programs": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 1280,
+          "height": 720,
+          "r_frame_rate": "24/1",
+          "nb_frames": "288"
+        }
+      ],
+      "format": {
+        "duration": "12.000000",
+        "size": "281490"
+      }
+    }
+  ],
+  "loop_source_period_seconds": 12,
+  "logo_region_source_unchanged": true,
+  "preview_visually_reviewed": true,
+  "staging_script_executed": true,
+  "iso_integration_tested": false
+}

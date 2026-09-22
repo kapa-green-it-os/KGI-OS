@@ -1,0 +1,389 @@
+{
+  "version": "1.0-visuels-originaux",
+  "status": "assets_prepared_not_installed",
+  "scale": "contain_no_crop_no_stretch",
+  "defaults": {
+    "installateur": "01-installateur/kgi-bienvenue-752x448.png",
+    "plymouth": "02-plymouth/kgi-demarrage.png",
+    "connexion": "03-connexion/kgi-connexion.png",
+    "icone": "04-icones/png/kgi-os-64.png",
+    "bureau": "06-fond-ecran/kgi-bureau.png",
+    "veille": "07-ecran-veille/kgi-veille.png",
+    "animation": "08-fond-anime/kgi-bureau-anime-1920x1080.mp4"
+  },
+  "login_form": {
+    "side": "left",
+    "recommended_box_fraction": [
+      0.06,
+      0.2,
+      0.4,
+      0.55
+    ],
+    "opaque_panel_required": true
+  },
+  "animated_wallpaper_default": false,
+  "exports": [
+    {
+      "file": "02-plymouth/kgi-demarrage-1366x768.png",
+      "source": "00-visuels-originaux/logo kgi ecran de veille.png",
+      "width": 1366,
+      "height": 768,
+      "fit": "contain",
+      "crop": false
+    },
+    {
+      "file": "02-plymouth/kgi-demarrage-1920x1080.png",
+      "source": "00-visuels-originaux/logo kgi ecran de veille.png",
+      "width": 1920,
+      "height": 1080,
+      "fit": "contain",
+      "crop": false
+    },
+    {
+      "file": "02-plymouth/kgi-demarrage-1920x1200.png",
+      "source": "00-visuels-originaux/logo kgi ecran de veille.png",
+      "width": 1920,
+      "height": 1200,
+      "fit": "contain",
+      "crop": false
+    },
+    {
+      "file": "02-plymouth/kgi-demarrage-1600x1200.png",
+      "source": "00-visuels-originaux/logo kgi ecran de veille.png",
+      "width": 1600,
+      "height": 1200,
+      "fit": "contain",
+      "crop": false
+    },
+    {
+      "file": "03-connexion/kgi-connexion-1366x768.png",
+      "source": "00-visuels-originaux/logo KGI.png",
+      "width": 1366,
+      "height": 768,
+      "fit": "contain",
+      "crop": false
+    },
+    {
+      "file": "03-connexion/kgi-connexion-1920x1080.png",
+      "source": "00-visuels-originaux/logo KGI.png",
+      "width": 1920,
+      "height": 1080,
+      "fit": "contain",
+      "crop": false
+    },
+    {
+      "file": "03-connexion/kgi-connexion-1920x1200.png",
+      "source": "00-visuels-originaux/logo KGI.png",
+      "width": 1920,
+      "height": 1200,
+      "fit": "contain",
+      "crop": false
+    },
+    {
+      "file": "03-connexion/kgi-connexion-1600x1200.png",
+      "source": "00-visuels-originaux/logo KGI.png",
+      "width": 1600,
+      "height": 1200,
+      "fit": "contain",
+      "crop": false
+    },
+    {
+      "file": "06-fond-ecran/kgi-bureau-1366x768.png",
+      "source": "00-visuels-originaux/Logo KGI 03.png",
+      "width": 1366,
+      "height": 768,
+      "fit": "contain",
+      "crop": false
+    },
+    {
+      "file": "06-fond-ecran/kgi-bureau-1920x1080.png",
+      "source": "00-visuels-originaux/Logo KGI 03.png",
+      "width": 1920,
+      "height": 1080,
+      "fit": "contain",
+      "crop": false
+    },
+    {
+      "file": "06-fond-ecran/kgi-bureau-1920x1200.png",
+      "source": "00-visuels-originaux/Logo KGI 03.png",
+      "width": 1920,
+      "height": 1200,
+      "fit": "contain",
+      "crop": false
+    },
+    {
+      "file": "06-fond-ecran/kgi-bureau-1600x1200.png",
+      "source": "00-visuels-originaux/Logo KGI 03.png",
+      "width": 1600,
+      "height": 1200,
+      "fit": "contain",
+      "crop": false
+    },
+    {
+      "file": "07-ecran-veille/kgi-veille-1366x768.png",
+      "source": "00-visuels-originaux/logo kgi ecran de veille.png",
+      "width": 1366,
+      "height": 768,
+      "fit": "contain",
+      "crop": false
+    },
+    {
+      "file": "07-ecran-veille/kgi-veille-1920x1080.png",
+      "source": "00-visuels-originaux/logo kgi ecran de veille.png",
+      "width": 1920,
+      "height": 1080,
+      "fit": "contain",
+      "crop": false
+    },
+    {
+      "file": "07-ecran-veille/kgi-veille-1920x1200.png",
+      "source": "00-visuels-originaux/logo kgi ecran de veille.png",
+      "width": 1920,
+      "height": 1200,
+      "fit": "contain",
+      "crop": false
+    },
+    {
+      "file": "07-ecran-veille/kgi-veille-1600x1200.png",
+      "source": "00-visuels-originaux/logo kgi ecran de veille.png",
+      "width": 1600,
+      "height": 1200,
+      "fit": "contain",
+      "crop": false
+    },
+    {
+      "file": "02-plymouth/png/kgi-visuel-256.png",
+      "source": "00-visuels-originaux/logo kgi ecran de veille.png",
+      "width": 256,
+      "height": 144,
+      "fit": "contain",
+      "crop": false
+    },
+    {
+      "file": "02-plymouth/png/kgi-visuel-512.png",
+      "source": "00-visuels-originaux/logo kgi ecran de veille.png",
+      "width": 512,
+      "height": 288,
+      "fit": "contain",
+      "crop": false
+    },
+    {
+      "file": "02-plymouth/png/kgi-visuel-1024.png",
+      "source": "00-visuels-originaux/logo kgi ecran de veille.png",
+      "width": 1024,
+      "height": 576,
+      "fit": "contain",
+      "crop": false
+    },
+    {
+      "file": "04-icones/png/kgi-os-16.png",
+      "source": "00-visuels-originaux/kapa-greenit-icone-dark.png",
+      "width": 16,
+      "height": 16,
+      "fit": "resize",
+      "crop": false
+    },
+    {
+      "file": "04-icones/png/kgi-install-usb-16.png",
+      "source": "00-visuels-originaux/kapa-greenit-icone-dark.png",
+      "width": 16,
+      "height": 16,
+      "fit": "resize",
+      "crop": false
+    },
+    {
+      "file": "04-icones/png/kgi-a-propos-16.png",
+      "source": "00-visuels-originaux/kapa-greenit-icone-dark.png",
+      "width": 16,
+      "height": 16,
+      "fit": "resize",
+      "crop": false
+    },
+    {
+      "file": "04-icones/png/kgi-os-24.png",
+      "source": "00-visuels-originaux/kapa-greenit-icone-dark.png",
+      "width": 24,
+      "height": 24,
+      "fit": "resize",
+      "crop": false
+    },
+    {
+      "file": "04-icones/png/kgi-install-usb-24.png",
+      "source": "00-visuels-originaux/kapa-greenit-icone-dark.png",
+      "width": 24,
+      "height": 24,
+      "fit": "resize",
+      "crop": false
+    },
+    {
+      "file": "04-icones/png/kgi-a-propos-24.png",
+      "source": "00-visuels-originaux/kapa-greenit-icone-dark.png",
+      "width": 24,
+      "height": 24,
+      "fit": "resize",
+      "crop": false
+    },
+    {
+      "file": "04-icones/png/kgi-os-32.png",
+      "source": "00-visuels-originaux/kapa-greenit-icone-dark.png",
+      "width": 32,
+      "height": 32,
+      "fit": "resize",
+      "crop": false
+    },
+    {
+      "file": "04-icones/png/kgi-install-usb-32.png",
+      "source": "00-visuels-originaux/kapa-greenit-icone-dark.png",
+      "width": 32,
+      "height": 32,
+      "fit": "resize",
+      "crop": false
+    },
+    {
+      "file": "04-icones/png/kgi-a-propos-32.png",
+      "source": "00-visuels-originaux/kapa-greenit-icone-dark.png",
+      "width": 32,
+      "height": 32,
+      "fit": "resize",
+      "crop": false
+    },
+    {
+      "file": "04-icones/png/kgi-os-48.png",
+      "source": "00-visuels-originaux/kapa-greenit-icone-dark.png",
+      "width": 48,
+      "height": 48,
+      "fit": "resize",
+      "crop": false
+    },
+    {
+      "file": "04-icones/png/kgi-install-usb-48.png",
+      "source": "00-visuels-originaux/kapa-greenit-icone-dark.png",
+      "width": 48,
+      "height": 48,
+      "fit": "resize",
+      "crop": false
+    },
+    {
+      "file": "04-icones/png/kgi-a-propos-48.png",
+      "source": "00-visuels-originaux/kapa-greenit-icone-dark.png",
+      "width": 48,
+      "height": 48,
+      "fit": "resize",
+      "crop": false
+    },
+    {
+      "file": "04-icones/png/kgi-os-64.png",
+      "source": "00-visuels-originaux/kapa-greenit-icone-dark.png",
+      "width": 64,
+      "height": 64,
+      "fit": "resize",
+      "crop": false
+    },
+    {
+      "file": "04-icones/png/kgi-install-usb-64.png",
+      "source": "00-visuels-originaux/kapa-greenit-icone-dark.png",
+      "width": 64,
+      "height": 64,
+      "fit": "resize",
+      "crop": false
+    },
+    {
+      "file": "04-icones/png/kgi-a-propos-64.png",
+      "source": "00-visuels-originaux/kapa-greenit-icone-dark.png",
+      "width": 64,
+      "height": 64,
+      "fit": "resize",
+      "crop": false
+    },
+    {
+      "file": "04-icones/png/kgi-os-128.png",
+      "source": "00-visuels-originaux/kapa-greenit-icone-dark.png",
+      "width": 128,
+      "height": 128,
+      "fit": "resize",
+      "crop": false
+    },
+    {
+      "file": "04-icones/png/kgi-install-usb-128.png",
+      "source": "00-visuels-originaux/kapa-greenit-icone-dark.png",
+      "width": 128,
+      "height": 128,
+      "fit": "resize",
+      "crop": false
+    },
+    {
+      "file": "04-icones/png/kgi-a-propos-128.png",
+      "source": "00-visuels-originaux/kapa-greenit-icone-dark.png",
+      "width": 128,
+      "height": 128,
+      "fit": "resize",
+      "crop": false
+    },
+    {
+      "file": "04-icones/png/kgi-os-256.png",
+      "source": "00-visuels-originaux/kapa-greenit-icone-dark.png",
+      "width": 256,
+      "height": 256,
+      "fit": "resize",
+      "crop": false
+    },
+    {
+      "file": "04-icones/png/kgi-install-usb-256.png",
+      "source": "00-visuels-originaux/kapa-greenit-icone-dark.png",
+      "width": 256,
+      "height": 256,
+      "fit": "resize",
+      "crop": false
+    },
+    {
+      "file": "04-icones/png/kgi-a-propos-256.png",
+      "source": "00-visuels-originaux/kapa-greenit-icone-dark.png",
+      "width": 256,
+      "height": 256,
+      "fit": "resize",
+      "crop": false
+    },
+    {
+      "file": "04-icones/png/kgi-os-512.png",
+      "source": "00-visuels-originaux/kapa-greenit-icone-dark.png",
+      "width": 512,
+      "height": 512,
+      "fit": "resize",
+      "crop": false
+    },
+    {
+      "file": "04-icones/png/kgi-install-usb-512.png",
+      "source": "00-visuels-originaux/kapa-greenit-icone-dark.png",
+      "width": 512,
+      "height": 512,
+      "fit": "resize",
+      "crop": false
+    },
+    {
+      "file": "04-icones/png/kgi-a-propos-512.png",
+      "source": "00-visuels-originaux/kapa-greenit-icone-dark.png",
+      "width": 512,
+      "height": 512,
+      "fit": "resize",
+      "crop": false
+    },
+    {
+      "file": "01-installateur/kgi-bienvenue-752x448.png",
+      "source": "00-visuels-originaux/Logo KGI 03.png",
+      "width": 752,
+      "height": 448,
+      "fit": "contain",
+      "crop": false,
+      "overlay": "Présentation des profils dans la zone libre à gauche"
+    },
+    {
+      "file": "01-installateur/kgi-bienvenue-960x600.png",
+      "source": "00-visuels-originaux/Logo KGI 03.png",
+      "width": 960,
+      "height": 600,
+      "fit": "contain",
+      "crop": false,
+      "overlay": "Présentation des profils dans la zone libre à gauche"
+    }
+  ]
+}
