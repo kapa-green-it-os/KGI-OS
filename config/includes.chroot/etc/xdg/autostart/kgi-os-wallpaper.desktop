@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=KGI-OS - Fond d'écran initial
+Comment=Appliquer une seule fois le fond d'écran officiel KAPA Green IT
+Exec=/bin/sh /usr/local/lib/kgi-os/set-wallpaper.sh
+OnlyShowIn=XFCE;
+NoDisplay=true
+Terminal=false

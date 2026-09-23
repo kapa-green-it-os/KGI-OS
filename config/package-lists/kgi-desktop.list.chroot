@@ -1,0 +1,23 @@
+# KGI-OS — bureau léger et usage quotidien (Debian 13 / trixie)
+# Pas de dépôt tiers ni de version testing/unstable.
+xfce4
+xfce4-terminal
+lightdm
+xorg
+network-manager
+network-manager-gnome
+firefox-esr
+libreoffice-writer
+libreoffice-calc
+libreoffice-impress
+libreoffice-gtk3
+evince
+file-roller
+7zip
+vlc
+# Installer Debian en mode Live, accessible via les entrées d'amorçage.
+# Des firmwares non libres sont inclus pour le matériel reconditionné courant.
+firmware-iwlwifi
+firmware-realtek
+firmware-amd-graphics
+firmware-misc-nonfree
